@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944176497918",
+    "firebase_url": "https://ei-van-68ae3.firebaseio.com",
+    "project_id": "ei-van-68ae3",
+    "storage_bucket": "ei-van-68ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944176497918:android:579203b08befd9126791af",
+        "android_client_info": {
+          "package_name": "com.example.ovan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944176497918-v1dlmh25i1l8hbmls19oa6ekfmioahs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ovan",
+            "certificate_hash": "a42560e521473537a961473d0de5beaa2d24f70c"
+          }
+        },
+        {
+          "client_id": "944176497918-u7kgncnnlorlphvsirtl1sbrnjjjf0e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQv56zyDW08vOu5EPD5CXd8cdxqjEAjlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944176497918-u7kgncnnlorlphvsirtl1sbrnjjjf0e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
